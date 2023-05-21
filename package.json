@@ -1,0 +1,11 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Generates a strong password",
+  "bin": {
+    "passgen": "./index.js"
+  },
+  "preferGlobal": true,
+  "author": "Muath Alsowadi",
+  "license": "MIT"
+}
