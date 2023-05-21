@@ -1,5 +1,5 @@
 {
-  "name": "password-generator",
+  "name": "@muath-ye/password-generator",
   "version": "1.0.0",
   "description": "Generates a strong password",
   "bin": {
