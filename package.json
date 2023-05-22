@@ -1,7 +1,7 @@
 {
   "name": "@muath-ye/password-generator",
-  "version": "1.0.2",
-  "description": "Generates a strong password",
+  "version": "1.0.3",
+  "description": "Generates a strong password with your need of complexity.",
   "bin": {
     "passgen": "./index.js"
   },
